@@ -1,3 +1,3 @@
 # Hello-World
-This is a temporary repository.\n
+This is a temporary repository.
 This is my first edit.
